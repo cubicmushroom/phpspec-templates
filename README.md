@@ -11,3 +11,9 @@ Simply include the package in your project, and the symlink the `./templates` di
 
     $ composer require cubicmushroom/phpspec-templates
     $ ln -s ./vendor/cubicmushroom/phpspec-templates/templates ./.phpspec
+
+
+Roadmap
+-------
+
+Split templates into version specific directories
