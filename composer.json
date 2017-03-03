@@ -1,0 +1,14 @@
+{
+    "name": "cubicmushroom/phpspec-templates",
+    "description": "Custom PHPSpec templates",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Toby Griffiths",
+            "email": "toby@cubicmushroom.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
